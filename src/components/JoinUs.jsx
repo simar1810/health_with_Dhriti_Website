@@ -30,7 +30,7 @@ const JoinUs = () => {
         {/* Left Section */}
         <div className='flex flex-col items-center lg:items-start'>
           <h1 className='text-black font-bold text-2xl sm:text-3xl md:text-4xl'>Why Choose</h1>
-          <h1 className='text-[#01904B] font-bold text-4xl sm:text-5xl lg:text-4xl mt-2'>Sanraj Wellness Club</h1>
+          <h1 className='text-[#01904B] font-bold text-4xl sm:text-5xl lg:text-4xl mt-2'>Health with Dhriti </h1>
           <p className='text-[#404040] font-medium my-6 sm:my-10 text-base sm:text-lg md:text-xl w-full sm:w-3/4 lg:w-96'>
             Choose us for a step-by-step path to success, backed by professionals and a supportive network.
           </p>

@@ -1,5 +1,4 @@
 "use client";
-import React from "react";
 
 const PrivacyPolicy = () => {
   return (
@@ -59,7 +58,7 @@ const PrivacyPolicy = () => {
             <li>
               {/* changed */}
               <strong>Company</strong> (referred to as either "the Company",
-              "We", "Us" or "Our" in this Agreement) refers to Sanraj Wellness Club.
+              "We", "Us" or "Our" in this Agreement) refers to Health with Dhriti .
             </li>
             <li>
               <strong>Cookies</strong> are small files placed on Your computer,
@@ -91,9 +90,9 @@ const PrivacyPolicy = () => {
             </li>
             <li>
               {/* changed */}
-              <strong>Website</strong> refers to Sanraj Wellness Club, accessible from{" "}
+              <strong>Website</strong> refers to Health with Dhriti , accessible from{" "}
               <a
-                href="https://www.nutrihealthbridge.com/"
+                href="https://https://www.dhriti.wellnessz.in//"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#009048] hover:underline"

@@ -1,5 +1,4 @@
 "use client";
-import React from "react";
 
 const TermsAndConditionsPage = () => {
   return (
@@ -18,24 +17,24 @@ const TermsAndConditionsPage = () => {
           <h2 className="text-xl font-semibold text-[#3D3D3D] border-l-4 border-[#D58411] pl-3">
             Terms and Conditions
           </h2>
-          <p>Welcome to Sanraj Wellness Club!</p> 
+          <p>Welcome to Health with Dhriti !</p> 
 
           <p>
             These terms and conditions outline the rules and regulations for the use
-            of Sanraj Wellness Club&apos;s website, located at {" "}
+            of Health with Dhriti &apos;s website, located at {" "}
             <a
-              href="https://www.nutrihealthbridge.com"
+              href="https://https://www.dhriti.wellnessz.in/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#009048] hover:underline"
             >
-              www.nutrihealthbridge.com
+              https://www.dhriti.wellnessz.in/
             </a>.
           </p>
           {/* change */}
           <p>
             By accessing this website, we assume you accept these terms and
-            conditions. Do not continue to use Sanraj Wellness Club if you do not agree to
+            conditions. Do not continue to use Health with Dhriti  if you do not agree to
             all of the terms and conditions stated on this page.
           </p>
 {/* change */}
@@ -45,7 +44,7 @@ const TermsAndConditionsPage = () => {
             &quot;You&quot;, and &quot;Your&quot; refer to you, the person logging
             on to this website and complying with the Company&apos;s terms and
             conditions. &quot;The Company&quot;, &quot;Ourselves&quot;,
-            &quot;We&quot;, &quot;Our&quot;, and &quot;Us&quot; refer to Sanraj Wellness Club
+            &quot;We&quot;, &quot;Our&quot;, and &quot;Us&quot; refer to Health with Dhriti 
             . &quot;Party&quot;, &quot;Parties&quot;, or &quot;Us&quot; refer
             to both the Client and ourselves. All terms refer to the offer,
             acceptance, and consideration of payment necessary to undertake the
@@ -63,8 +62,8 @@ const TermsAndConditionsPage = () => {
           </h3>
 {/* change */}
           <p>
-            We employ the use of cookies. By accessing Sanraj Wellness Club, you agree to
-            use cookies in accordance with Sanraj Wellness Club&apos;s Privacy Policy.
+            We employ the use of cookies. By accessing Health with Dhriti , you agree to
+            use cookies in accordance with Health with Dhriti &apos;s Privacy Policy.
           </p>
 
           <p>
@@ -80,19 +79,19 @@ const TermsAndConditionsPage = () => {
           </h3>
 {/* change */}
           <p>
-            Unless otherwise stated, Sanraj Wellness Club and/or its licensors own the
+            Unless otherwise stated, Health with Dhriti  and/or its licensors own the
             intellectual property rights for all material on Nutri Health. All
             intellectual property rights are reserved. You may access this from
-            Sanraj Wellness Club for your own personal use subject to the restrictions set
+            Health with Dhriti  for your own personal use subject to the restrictions set
             in these terms and conditions.
           </p>
 {/* change */}
           <p>You must not:</p>
           <ul className="list-disc list-inside space-y-1">
-            <li>Republish material from Sanraj Wellness Club;</li>
-            <li>Sell, rent, or sub-license material from Sanraj Wellness Club;</li>
-            <li>Reproduce, duplicate, or copy material from Sanraj Wellness Club;</li>
-            <li>Redistribute content from Sanraj Wellness Club.</li>
+            <li>Republish material from Health with Dhriti ;</li>
+            <li>Sell, rent, or sub-license material from Health with Dhriti ;</li>
+            <li>Reproduce, duplicate, or copy material from Health with Dhriti ;</li>
+            <li>Redistribute content from Health with Dhriti .</li>
           </ul>
 
           <p>
@@ -111,18 +110,18 @@ const TermsAndConditionsPage = () => {
 {/* change */}
           <p>
             Parts of this website offer an opportunity for users to post and
-            exchange opinions and information in certain areas of the website. Sanraj Wellness Club does not filter, edit, publish, or review Comments prior to their
+            exchange opinions and information in certain areas of the website. Health with Dhriti  does not filter, edit, publish, or review Comments prior to their
             presence on the website. Comments do not reflect the views or opinions
-            of Sanraj Wellness Club, its agents, and/or affiliates. Comments reflect the
+            of Health with Dhriti , its agents, and/or affiliates. Comments reflect the
             views and opinions of the person who posts them. To the extent permitted
-            by applicable law, Sanraj Wellness Club shall not be liable for the Comments or
+            by applicable law, Health with Dhriti  shall not be liable for the Comments or
             for any liability, damages, or expenses caused and/or suffered as a
             result of any use of and/or posting of and/or appearance of the Comments
             on this website.
           </p>
 {/* change */}
           <p>
-            Sanraj Wellness Club reserves the right to monitor all Comments and to remove
+            Health with Dhriti  reserves the right to monitor all Comments and to remove
             any Comments that can be considered inappropriate, offensive, or that
             cause a breach of these Terms and Conditions.
           </p>
@@ -150,7 +149,7 @@ const TermsAndConditionsPage = () => {
           </ul>
 {/* change */}
           <p>
-            You hereby grant Sanraj Wellness Club a non-exclusive license to use, reproduce,
+            You hereby grant Health with Dhriti  a non-exclusive license to use, reproduce,
             edit, and authorize others to use, reproduce, and edit any of your
             Comments in any and all forms, formats, or media.
           </p>
@@ -208,7 +207,7 @@ const TermsAndConditionsPage = () => {
             that: (a) the link would not make us look unfavorably to ourselves or to
             our accredited businesses; (b) the organization does not have any
             negative records with us; (c) the benefit to us from the visibility of
-            the hyperlink compensates the absence of Sanraj Wellness Club; and (d) the link
+            the hyperlink compensates the absence of Health with Dhriti ; and (d) the link
             is in the context of general resource information.
           </p>
 
@@ -224,7 +223,7 @@ const TermsAndConditionsPage = () => {
           </ul>
 {/* change */}
           <p>
-            No use of Sanraj Wellness Club&apos;s logo or other artwork will be allowed for
+            No use of Health with Dhriti &apos;s logo or other artwork will be allowed for
             linking absent a trademark license agreement.
           </p>
 
