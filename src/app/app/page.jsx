@@ -18,7 +18,7 @@ export default function Page() {
 
       <div className="flex justify-center items-center mr-2 md:mr-12">
         <Image
-          src="/HWD_Mockup.png"
+          src="/client-assets/HWD_Mockup.png"
           alt="HWD Mockup"
           width={900}
           height={900}
