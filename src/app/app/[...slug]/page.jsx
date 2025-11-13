@@ -10,7 +10,7 @@ export default function Page() {
         </h1>
         <p className="text-sm md:text-xl mb-5 opacity-70 ">Begin your journey Towards Making People Healthy</p>
         <div className="flex justify-between items-center gap-5 mb-5">
-          <Link href="https://play.google.com/store/apps/details?id=com.wellnessz.zenfit&hl=en-us" target="_blank">
+          <Link href="https://play.google.com/store/apps/details?id=com.wellnessz.healthwithdhriti" target="_blank">
             <Image src="/playstore.png" alt="Google Store" width={150} height={40} className="cursor-pointer" />
           </Link>
           <Link href="https://apps.apple.com/us/app/zenfit-app/id6743387199" target="_blank">

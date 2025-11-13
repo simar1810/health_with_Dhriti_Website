@@ -1,4 +1,3 @@
-import React from 'react'
 import Image from 'next/image'
 
 const Hero = () => {
@@ -13,7 +12,7 @@ const Hero = () => {
           <div className="absolute max-w-2xl mx-auto z-10 lg:pb-18 text-center lg:text-left xl:pb-28 2xl:pb-20 px-3 sm:px-0">
             <div className="relative flex justify-center lg:justify-start items-center mb-10 lg:mb-28 xl:mb-24 mt-4 lg:mt-6">
               <Image
-                src="/client-assets/swc_logo.png"
+                src="/client-assets/HealthWithDhriti.jpeg"
                 alt="Wellness Logo"
                 width={250}
                 height={250}
