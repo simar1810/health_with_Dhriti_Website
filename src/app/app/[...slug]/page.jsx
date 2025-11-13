@@ -18,8 +18,8 @@ export default function Page() {
 
       <div className="flex justify-center items-center mr-2 md:mr-12">
         <Image
-          src="/swc_app_mockup.png"
-          alt="SWC App Screens"
+          src="/HWD_Mockup.png"
+          alt="HWD Mockup"
           width={900}
           height={900}
           className="w-full self-center lg:max-w-4xl xl:w-lg 2xl:max-w-3xl object-contain" />
