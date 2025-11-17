@@ -10,7 +10,7 @@ export default function Page() {
           <Link href="https://play.google.com/store/apps/details?id=com.wellnessz.healthwithdhriti" target="_blank">
             <Image src="/playstore.png" alt="Google Store" width={150} height={40} className="cursor-pointer w-2xs" />
           </Link>
-          <Link href="https://apps.apple.com/us/app/wellnessz/id6478812964" target="_blank">
+          <Link href="https://apps.apple.com/dm/app/health-with-dhriti/id6755182337" target="_blank">
             <Image src="/appStore.png" alt="App Store" width={150} height={60} className="cursor-pointer w-2xs" />
           </Link>
         </div>
